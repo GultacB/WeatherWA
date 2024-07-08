@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\WeatherWA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|c:\\users\\user\\source\\repos\\weatherwa\\weatherwa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|solutionrelative:weatherwa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|c:\\users\\user\\source\\repos\\weatherwa\\weatherwa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|solutionrelative:weatherwa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|c:\\users\\user\\source\\repos\\weatherwa\\weatherwa\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|solutionrelative:weatherwa\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|c:\\users\\user\\source\\repos\\weatherwa\\weatherwa\\models\\weatherapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|solutionrelative:weatherwa\\models\\weatherapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|c:\\users\\user\\source\\repos\\weatherwa\\weatherwa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|solutionrelative:weatherwa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|c:\\users\\user\\source\\repos\\weatherwa\\weatherwa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|solutionrelative:weatherwa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|c:\\users\\user\\source\\repos\\weatherwa\\weatherwa\\weatherwa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|solutionrelative:weatherwa\\weatherwa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|c:\\users\\user\\source\\repos\\weatherwa\\weatherwa\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3DF0E27-54F1-402F-8100-05D1E111DA2E}|WeatherWA\\WeatherWA.csproj|solutionrelative:weatherwa\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherApi.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\Models\\WeatherApi.cs",
+              "RelativeDocumentMoniker": "WeatherWA\\Models\\WeatherApi.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\Models\\WeatherApi.cs",
+              "RelativeToolTip": "WeatherWA\\Models\\WeatherApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:46:47.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherWA\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\Services\\WeatherService.cs",
+              "RelativeToolTip": "WeatherWA\\Services\\WeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:10:21.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WeatherWA\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WeatherWA\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:17:32.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WeatherWA\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WeatherWA\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T16:43:27.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherWA",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\WeatherWA.csproj",
+              "RelativeDocumentMoniker": "WeatherWA\\WeatherWA.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\WeatherWA.csproj",
+              "RelativeToolTip": "WeatherWA\\WeatherWA.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-06T13:27:13.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WeatherWA\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WeatherWA\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T13:25:04.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WeatherWA\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WeatherWA\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T13:24:29.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherWA\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WeatherWA\\WeatherWA\\Program.cs",
+              "RelativeToolTip": "WeatherWA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:58:33.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

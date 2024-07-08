@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewData["Title"] = "Weather.com";
+}
+
+<div class="text-center">
+ <nav class="navbar navbar-light" style="margin-top:150px;width:750px;margin-left:250px">
+  <form class="container-fluid" method="get" asp-controller="Home" asp-action="Index">
+    <div class="input-group">
+       <input type="text" class="form-control" placeholder="city name" aria-label="city name" aria-describedby="basic-addon1" required name="CityName">
+       <button class="btn btn-primary">Search</button>
+    </div>
+  </form>
+</nav>
+</div>
+
+ @model WeatherWA.Models.Rootobject
+@if (Model != null && Model.main != null && Model.weather.Length > 0)
+{
+    <div class="text-right" style="margin-left:280px ; margin-top:50px">
+        <h5><i style="color:crimson">Temperature:</i> @(Math.Round(Model.main.temp) / 10)°C </h5>
+        <br />
+        <h5><i style="color:crimson">Feels Like:</i> @(Math.Round(Model.main.feels_like) / 10)°C</h5>
+        <br />
+        <h5><i style="color:crimson">Humidity:</i> @Model.main.humidity%</h5>
+        <br />
+        <h5><i style="color:crimson">Weather:</i> @Model.weather[0].description</h5>
+    </div>
+
+    <div style="margin-top:-200px; margin-left:500px">
+        <img src="@($"https://openweathermap.org/img/wn/{Model.weather[0].icon}@4x.png")" />
+    </div>
+}
+else
+{
+    <h5>Enter city name for the weather information</h5>
+}
